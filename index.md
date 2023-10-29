@@ -13,8 +13,8 @@ title: top
 
 ## QUALIFICATION
 *2022.2* [西園寺記念奨学金（成績優秀者枠）](https://www.ritsumei.ac.jp/scholarship/curriculum/)受賞  
-2022.4 TOEIC 745点  
-2023.3 [技育CAMP](https://talent.supporterz.jp/geekcamp/) 2023Vol.1 企業賞受賞
+*2022.4* TOEIC 745点  
+*2023.3* [技育CAMP](https://talent.supporterz.jp/geekcamp/) 2023Vol.1 企業賞受賞
 
 ## HISTORY
 小学生の時からゲームが好きで何となくゲームクリエイターになりたいと思っていた。高校生の時に[AlphaGo](https://ja.wikipedia.org/wiki/AlphaGo)や[Pokémon GO](https://ja.wikipedia.org/wiki/Pok%C3%A9mon_GO)に魅了され、本格的に情報系学部を志す。そして、大学3年次から様々なWEB開発のインターンに参加し、ソフトウェアエンジニアとしてのキャリアを志望する。
