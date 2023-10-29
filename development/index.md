@@ -23,6 +23,6 @@
 - 企業賞 受賞
 - 使用技術: `Plasmo`, `ChromeExtension`, `React`,`TypeScript`, `Python`, `chatGPTAPI`, `yahoo文章校正API`
 - **メール自動返信Chrome拡張機能**を開発した
-- DEMO
+- DEMO  
 ![DEMO](https://github.com/yu-tofu/yu-tofu.github.io/assets/92269186/6a62cae9-3479-4932-ab9f-4c5b056a6b25)
 
