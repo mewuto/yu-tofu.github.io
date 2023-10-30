@@ -9,7 +9,7 @@ title: top
 
 ## EDUCATION
 *2019.4 - 2023.3* 立命館大学 情報理工学部 情報理工学科  
-*2023.4 - 2025.3*（修了予定）立命館大学大学院 情報理工学研究科 情報理工学専攻 博士前期課程計算機科学コース [次世代コンピューティング研究室](http://www.ngc.is.ritsumei.ac.jp/)
+*2023.4 - 2025.3*（修了予定） 立命館大学大学院 情報理工学研究科 情報理工学専攻 博士前期課程計算機科学コース [次世代コンピューティング研究室](http://www.ngc.is.ritsumei.ac.jp/)
 
 ## QUALIFICATION
 *2022.2* [西園寺記念奨学金（成績優秀者枠）](https://www.ritsumei.ac.jp/scholarship/curriculum/)受賞  
