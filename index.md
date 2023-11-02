@@ -5,7 +5,7 @@ title: top
 
 # ABOUT
 ## BASIC INFORMATION
-名前：松田 悠右人（Yuto Matsuda）
+名前：まつだ ゆうと （Yuto Matsuda）
 
 ## EDUCATION
 *2019.4 - 2023.3* 立命館大学 情報理工学部 情報理工学科  
